@@ -1,9 +1,9 @@
-# En construcción
+## Carotte personal website
+Hi, my name is Idalid a.k.a. Id or Carotte. :carrot:
 
-Sitios de interés:
+This repository is my personal website. You can visit it [clicking here](www.carotte.codes). :smile:
 
+#
 
-https://www.linkedin.com/in/id-avila-c/
-
-
-https://github.com/carrot-exe
+### Credits
+I used a free template from [ThemeSINE](www.themesine.com). 
